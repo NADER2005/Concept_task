@@ -98,3 +98,7 @@ The following resources were used to solve these problems:
 This project is open-source and available under the MIT License. Feel free to use and modify the code as needed.  
 
 ---
+
+## *videos*
+This is the link that contain the videos for solving these problems
+https://drive.google.com/drive/folders/1MyykznroNr7woAyO2Q2w2Mfnh2Gg6QAv?usp=sharing
