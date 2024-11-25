@@ -1,6 +1,7 @@
 import random
 print("Welcome to the Word Scramble Game!")
-word = "Nader"
+word_list = ["Nader" , "Elsayed" , "Hassan" , "Soliman"]
+word = random.choice(word_list)
 word_list = list(word)
 random.shuffle(word_list)
 scramble_word = ''.join(word_list)
